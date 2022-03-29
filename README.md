@@ -23,4 +23,5 @@ PowerShell can perform basic maths operators, such as “+”, “-“ and “*�
 
 ### Task 5: Typecast a Variable as a “String” and assign it a value of 5
 
-![imatge](https://user-images.githubusercontent.com/95173613/160650926-ba492530-f30c-4f22-bacc-d72ccf37cd16.png)
+![imatge](https://user-images.githubusercontent.com/95173613/160651368-8baff294-a182-49f4-acf5-76ab4301c213.png)
+
